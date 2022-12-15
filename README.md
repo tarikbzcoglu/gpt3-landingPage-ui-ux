@@ -1,9 +1,8 @@
 # UI/UX Website
 
 <div align="center">
-  <a href="https://triviaeternal.netlify.app/">
+  <a href="https://github.com/tarikbzcoglu/gpt3-landingPage-ui-ux">
   <img src="https://i.ibb.co/QMStvWx/ai.png" height="100px" alt="favicon" border="0" />
-  <a href="https://triviaeternal.netlify.app/"><h3>UI/UX</h3></a>
   </a>
 
   <p align="center">

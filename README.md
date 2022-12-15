@@ -7,6 +7,7 @@
 
   <p align="center">
   A fully responsive website I made using <a href="https://www.arshakir.com/">AR Shakir's</a> design.
+  <a href="https://gpt3-landingpage-ui-ux.netlify.app/">(Click here to take a look.)</a>
   <hr/>
   <h4 align="center">Build with</h4>
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" height="50px" alt="trollface" border="0" />
